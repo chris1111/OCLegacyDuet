@@ -6,6 +6,8 @@
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
+### Utilisation
+- SIP security/Gatekeeper must be Disable
 
 ### Follow all steps in the Video ⇩
 - Demonstation for APFS and HFS+ Volume
