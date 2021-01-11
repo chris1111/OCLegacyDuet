@@ -1,5 +1,12 @@
 # OCLegacyDuet
-![applet](https://user-images.githubusercontent.com/6248794/104141302-fe778900-5383-11eb-863a-258d4e325b04.png)
+![applet](https://user-images.githubusercontent.com/6248794/104141515-38955a80-5385-11eb-94fc-b1631285a4e1.png)
+
+### For Legacy based configs but also works for UEFI configs
+
+- Build by [chris1111](https://github.com/chris1111/)
+- Created from [Script Debugger](https://latenightsw.com/)
+- Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
+
 
 ### Follow all steps in the Video ⇩
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/100680251-23b5b800-333f-11eb-8234-50195475605b.png)](https://youtu.be/UzWwhq_y9WA)
