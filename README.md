@@ -1,5 +1,5 @@
 # OCLegacyDuet
-![applet](https://user-images.githubusercontent.com/6248794/104141515-38955a80-5385-11eb-94fc-b1631285a4e1.png)
+![applet](https://user-images.githubusercontent.com/6248794/104141800-85c5fc00-5386-11eb-8b49-38ac4a6a8bb6.png)
 
 ### For Legacy based configs but also works for UEFI configs
 
