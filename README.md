@@ -4,7 +4,6 @@
 ### For Legacy based configs but also works for UEFI configs
 
 - Build by [chris1111](https://github.com/chris1111/)
-- Created from [Script Debugger](https://latenightsw.com/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
 
