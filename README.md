@@ -14,4 +14,4 @@
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/100680251-23b5b800-333f-11eb-8234-50195475605b.png)](https://youtu.be/UzWwhq_y9WA)
 
 
-#### Download Release ➤ [OCLegacyDuet.dmg.zip](https://github.com/chris1111/OCLegacyDuet/releases/tag/V1)
+#### Download Release V2 ➤ [OCLegacyDuet.dmg.zip](https://github.com/chris1111/OCLegacyDuet/releases/tag/V2)
