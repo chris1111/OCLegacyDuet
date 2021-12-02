@@ -29,7 +29,7 @@ then
   echo "No FAT32 partition to install"
   exit
 fi
-echo "Install on EFI System Partition"
+echo "Install ➤ EFI System Partition"
 
 # Write MBR
 sudo fdisk -f boot0 -u /dev/rdisk${N}
